@@ -1,0 +1,24 @@
+[
+    {
+        "sno":"1",
+        "name" : "vasanth",
+        "designation" : "Associate",
+        "skills" :"react",
+        "date":"12-01-2021"
+    },
+    {
+        "sno":"2",
+        "name" : "Bishnu",
+        "designation" : "Associate",
+        "skills" :"Angular",
+        "date":"12-02-2021"
+    },
+    {
+        "sno":"3",
+        "name" : "Dummy",
+        "designation" : "Associate",
+        "skills" :"react",
+        "date":"12-03-2021"
+    }
+
+]
