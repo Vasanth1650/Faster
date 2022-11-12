@@ -3,7 +3,7 @@
         "sno":"1",
         "name" : "vasanth",
         "designation" : "Associate",
-        "skills" :"react",
+        "skills" :"React",
         "date":"12-01-2021"
     },
     {
@@ -11,14 +11,14 @@
         "name" : "Bishnu",
         "designation" : "Associate",
         "skills" :"Angular",
-        "date":"12-02-2021"
+        "date":"03-02-2022"
     },
     {
         "sno":"3",
         "name" : "Dummy",
         "designation" : "Associate",
-        "skills" :"react",
-        "date":"12-03-2021"
+        "skills" :"React",
+        "date":"01-03-2022"
     }
 
 ]
